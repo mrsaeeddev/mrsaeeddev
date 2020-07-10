@@ -1,8 +1,6 @@
 
 ### [Saeed Ahmad](http://saeed.js.org/)
 
-> 💻 Software Engineer at SBT | 📈 Data Science | 💼 Entrepreneurship | 🧠 AI | 🖋️ Writer at DEV with 250K+ views
-
 I am a full-stack software engineer primarily working on 🌐 and 📱 apps.
 
 I mostly work with JavaScript (⚛️ React Native & ReactJS), but also have experience with 🐍 Python and its frameworks Flask, Django, and others.
