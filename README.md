@@ -18,5 +18,3 @@ If that's the case, feel free to contact me or know more about my work here.
 🐦 Want to get help or discuss something? Get connected on [Twitter](https://twitter.com/mrsaeeddev)!
 
 📖 Want to read my articles? Visit my [DEV blog](https://dev.to/mrsaeeddev)!
-
-🏢 Want to see my professional journey? Let's Connect on [LinkedIn](https://www.linkedin.com/in/mrsaeeddev)!
